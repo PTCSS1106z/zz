@@ -1,0 +1,5 @@
+hysteria://62.210.70.191:23556?protocol=udp&auth=github.com%2FAlvin9999-newpac%2Ffanqiang&peer=bing.com&insecure=1&upmbps=11&downmbps=55&alpn=h3#%E6%B3%95%E5%9B%BD-hysteria-1
+hysteria://163.172.117.163:36699?protocol=udp&auth=dongtaiwang.com&peer=bing.com&insecure=1&upmbps=11&downmbps=55&alpn=h3#%E6%B3%95%E5%9B%BD-hysteria-2
+hysteria://[2a14:7584:d097::a]:54177?protocol=udp&auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=11&downmbps=55&alpn=h3#%E5%BE%B7%E5%9B%BD-hysteria-1
+hysteria://5.83.129.90:54177?protocol=udp&auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=11&downmbps=55&alpn=h3#%E5%BE%B7%E5%9B%BD-hysteria-2
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::3]:22000/?sni=www.microsoft.com&insecure=1#%E8%A5%BF%E7%8F%AD%E7%89%99-hysteria2-1
